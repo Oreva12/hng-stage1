@@ -1,4 +1,4 @@
-echo '# Single File String Analyzer Service
+# Single File String Analyzer Service
 
 A complete RESTful API service for analyzing strings in a single file.
 
